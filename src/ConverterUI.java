@@ -33,7 +33,7 @@ public class ConverterUI extends JFrame {
 	 */
 	public ConverterUI(UnitConverter uc) {
 		this.unitconverter = uc;
-		this.setTitle("Distance Converter");
+		this.setTitle("UnitConverter");
 		initComponents();
 	}
 	/**
